@@ -1,10 +1,10 @@
 # my_streamlit_app
 
-# Name
+Name : ...
 
-# Description
+Description : ...
 
-# Visuals
+Visuals : ...
 
-# Authors and acknowledgment
+Authors and acknowledgment : ...
 
